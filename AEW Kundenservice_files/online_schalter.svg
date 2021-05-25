@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>atom/icon/online_counter/40x40</title>
+    <desc>Created with Sketch.</desc>
+    <g id="atom/icon/online_counter/40x40" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(2.000000, 5.000000)" stroke="#FFFFFF" stroke-width="2">
+            <polygon id="Stroke-1" points="36 23 17.3333333 23 0 23 0 0 36 0"></polygon>
+            <path d="M22.6666667,8 C22.6666667,10.5773333 20.5773333,12.6666667 18,12.6666667 C15.4226667,12.6666667 13.3333333,10.5773333 13.3333333,8 C13.3333333,5.42266667 15.4226667,3.33333333 18,3.33333333 C20.5773333,3.33333333 22.6666667,5.42266667 22.6666667,8 Z" id="Stroke-3"></path>
+            <path d="M10,19.3333333 L10,19.3333333 C10,17.492 11.492,16 13.3333333,16 L22.6666667,16 C24.508,16 26,17.492 26,19.3333333" id="Stroke-5"></path>
+            <path d="M34,30 L2,30 C0.9,30 0,29.0993333 0,28 C0,26.9 0.9,26 2,26 L34,26 C35.1,26 36,26.9 36,28 C36,29.0993333 35.1,30 34,30 Z" id="Stroke-7"></path>
+        </g>
+    </g>
+</svg>

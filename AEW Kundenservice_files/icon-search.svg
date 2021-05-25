@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_magnifier</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="organism/header/default/desktop" transform="translate(-1322.000000, -54.000000)" stroke="#286AB7">
+            <g id="organism/header/home/desktop">
+                <g id="icon/magnifier/blue" transform="translate(1322.000000, 54.000000)">
+                    <g id="icon_magnifier" transform="translate(1.900000, 1.800000)">
+                        <path d="M26.6,12.60018 C26.6,19.55808 20.6454,25.20018 13.3,25.20018 C5.9546,25.20018 0,19.55808 0,12.60018 C0,5.64138 5.9546,0.00018 13.3,0.00018 C20.6454,0.00018 26.6,5.64138 26.6,12.60018 Z" id="Stroke-1" stroke-width="2"></path>
+                        <path d="M22.8,21.60018 L34.2,32.40018" id="Stroke-3" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
